@@ -37,6 +37,7 @@ ul {
 
 ol {
   padding: 0 20px;
+  font-weight: 700;
 }
 
 a {
@@ -80,6 +81,10 @@ a {
   margin: 100px 215px auto 80px;
 }
 
+.description-text {
+  color: #595959;
+}
+
 .right-text,
 .time-text,
 h1,
@@ -97,14 +102,15 @@ h1 {
   font-size: 3rem;
 }
 
-.project-link {
-  color: #000;
-}
-
 .time-text {
   color: #a8a8a8;
 }
 
 .position-text {
   color: #fb6d3a;
+}
+
+.ol-list-text {
+  color: #595959;
+  font-weight: 400;
 }/*# sourceMappingURL=main.css.map */
